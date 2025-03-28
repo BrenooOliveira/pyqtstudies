@@ -1,0 +1,2 @@
+# pyqtstudies
+Estudos sobre PYQT
